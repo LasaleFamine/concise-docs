@@ -1,0 +1,3 @@
+interface:
+  display_name: "Concise Docs"
+  short_description: "Find and reduce repeated documentation"
